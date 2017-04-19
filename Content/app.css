@@ -1,3 +1,11 @@
+/*This is my portional original JavaScript data (Final Exam on COMP1073). 
+The Dice Roller
+File name : app.css
+Author's name : Yuta Imaizumi #200333869
+Web site name : Intro To CreateJS*/
+
+
+
 /* custom CSS Lives Here */
 body {
   background-color: grey;
@@ -8,7 +16,7 @@ body {
   width: 100%;
 }
 
-#canvas {
+#canvas1, #canvas2 {
   background-color: white;
   margin: 0 auto;
   border: 1px Solid black;
