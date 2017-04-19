@@ -16,8 +16,12 @@ body {
   width: 100%;
 }
 
-#canvas1, #canvas2 {
+#canvas {
   background-color: white;
   margin: 0 auto;
   border: 1px Solid black;
+}
+
+#btn {
+  margin: 0 auto;
 }
